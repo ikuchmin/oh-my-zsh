@@ -1,0 +1,3 @@
+[submodule "custom/plugins/zaw"]
+	path = custom/plugins/zaw
+	url = https://github.com/zsh-users/zaw.git
